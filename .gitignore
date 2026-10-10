@@ -34,3 +34,7 @@ Thumbs.db
 
 # Environment variables
 .env
+
+# Saved Terraform plans can contain sensitive values
+tfplan
+*.tfplan
